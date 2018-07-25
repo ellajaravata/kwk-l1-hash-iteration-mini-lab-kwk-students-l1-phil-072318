@@ -1,4 +1,4 @@
-   create_olympics_hash
+   create_olympics_hash{}
    olympics_place = ["Sydney", "Athens", "Beijing", "London"]
      olympics_years = [2000, 2004, 2008, 2012]
   puts items
