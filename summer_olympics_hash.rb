@@ -1,10 +1,10 @@
 create_olympics_hash {}
 def
-   olympics_place = ["Sydney", "Athens", "Beijing", "London"]
-     olympics_years = [2000, 2004, 2008, 2012]
+  olympics_place = ["Sydney", "Athens", "Beijing", "London"]
+  olympics_years = [2000, 2004, 2008, 2012]
   puts create_olympics_hash
-  puts olympics_place["Sydney", "Athens", "Beijing", "London"]
-  puts  olympics_years[2000, 2004, 2008, 2012]
+  puts olympics_place ["Sydney", "Athens", "Beijing", "London"]
+  puts olympics_years [2000, 2004, 2008, 2012]
   end
 end
 create_olympics_hash {}
