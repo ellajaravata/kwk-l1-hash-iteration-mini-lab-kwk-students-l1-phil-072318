@@ -3,6 +3,8 @@ def create_olympics_hash{}
   olympics_years = [2000, 2004, 2008, 2012]
   create_olympics_hash{}
   # Implement this method so that it returns a hash with the data provided on README.md
+end
+create_olympics_hash
 
 # new_place="Atlanta"
 # new_year = 1996
