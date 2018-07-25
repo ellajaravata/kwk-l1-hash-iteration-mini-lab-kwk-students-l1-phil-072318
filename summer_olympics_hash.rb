@@ -1,7 +1,7 @@
 
 def create_olympics_hash
   olympics_place["Sydney", "Athens", "Beijing", "London", "Atlanta"]
-  olympics_years [2000, 2004, 2008, 2012, 1996]
+  olympics_years [2000, 2004, 2008, 2012, 199]
   summer_olympics{}
   
   # Implement this method so that it returns a hash with the data provided on README.md
