@@ -1,6 +1,9 @@
-   create_olympics_hash{}
+   create_olympics_hash
    olympics_place = ["Sydney", "Athens", "Beijing", "London"]
-  olympics_years = [2000, 2004, 2008, 2012]
+     olympics_years = [2000, 2004, 2008, 2012]
+  puts items
+  puts items["Sydney", "Athens", "Beijing", "London"]
+  puts items[2000, 2004, 2008, 2012]
   # Implement this method so that it returns a hash with the data provided on README.md
 
 # new_place="Atlanta"
